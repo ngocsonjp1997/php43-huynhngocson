@@ -1,0 +1,50 @@
+#dautien {
+	float: left;
+	border:1px dashed #fff;
+	border-radius:5px;
+	width:250px;
+	height:370px;
+	margin:15px auto; 
+	margin-left: 100px;
+}
+#thu2{
+	float: right ;
+	border:1px dashed #fff;
+	border-radius:5px; 
+	width:800px;
+	height:370px;
+	margin:15px auto; 
+	margin-right: 100px;
+	padding-left: 200px;
+	padding: 0;
+}	
+#img1 {
+	float: left;
+	height: 50px;
+	width: 60px;
+	border-radius: 50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	display: inline-block;
+    padding: 5px;
+}
+ form input {
+	margin-left:30px;
+	margin-top:10px;
+	padding-top:10px;
+	padding-right:15px;
+}
+.styyy1 {
+		background:#f89800 scroll;
+	border:1px solid white;
+	padding-right:50px;
+	padding-left:50px;
+	padding-top:15px;
+	padding-bottom:15px;
+	color: white;
+}
+.stybuton {
+	height: 50px;
+	padding-top: 25px;
+	padding-left:30px;
+}

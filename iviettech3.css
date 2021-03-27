@@ -1,0 +1,26 @@
+#styimg {
+	padding-top: 15px;
+	width: 259px;
+	height: 259px;
+	border-radius: 50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+    float: left;
+padding: 5px auto;
+margin-left: 5px;}
+#styar {
+    width: 700px;
+    margin-left: 20px;
+    color: black ;
+}
+#styas {
+	width: 500px;
+	float: right;
+	color: black;
+	padding:0;
+	margin:0;
+}
+#imgsau {
+	width:400px;
+	height:150px;
+}
